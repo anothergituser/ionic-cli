@@ -127,5 +127,8 @@
     "unzip",
     "vinyl-fs",
     "xml2js"
-  ]
+  ],
+  "overrides": {
+    "node-sass": "6.0.1"
+  }
 }
